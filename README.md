@@ -1,7 +1,9 @@
 # PiPico-RD-03D
 PiPico-RD-03D codes for radar
 
-# Rpi Pi Pico Radar 
+# Raspberry Pi Pico Radar monitoring
+checkout here:
+```https://core-electronics.com.au/guides/raspberry-pi-pico/how-to-add-mmwave-radar-to-a-pico-to-detect-and-track-humans/```
 
 - download Thonny
 - upload code ```main.py```
